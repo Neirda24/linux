@@ -1,0 +1,43 @@
+[user]
+    name = Adrien Schaegis
+    email = rochesadrien@gmail.com
+[core]
+    editor = vim
+    ui = always
+    autocrlf = input
+    whitespace = trailing-space,space-before-tab,indent-with-non-tab
+	excludesfile = ~/.gitignore
+[merge]
+    tool = vimdiff
+[color]
+    ui = true
+	status = always
+[alias]
+    # Cancel the last commit.
+    undo = reset --soft HEAD^
+
+    # Modify the last commit
+    amend = commit --amend
+
+    # Display a list [Qty][Name] of commits about the current project.
+    who = shortlog -sne
+
+    # To see whats changed
+    dif = !"git diff --ignore-space-at-eol --ignore-all-space"
+    changes = diff --name-status
+    dic = diff --cached
+    diffstat = diff --stat
+
+    # To see branch in local and their last commit.
+    br = branch -v
+
+    # To see the last commit.
+    last = log -1 HEAD
+
+    # To see the tag properly ordered
+    ts = !"git tag | sort -n -k1.2,1.4 -k1.6n"
+
+    # To see the last tag
+    ltag = !"git ts | tail -n 1"
+[push]
+    default = simple
