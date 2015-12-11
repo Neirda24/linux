@@ -1,0 +1,1072 @@
+# Ce fichier viminfo a été généré par Vim 7.4.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernier motif de recherche  :
+~MSle0~/kbis
+
+# Dernier motif de recherche Substitue  :
+~MSle0&/home/ironweb/iron
+
+# Dernières chaînes de substitution :
+$/home/adrienschaegis/devel/provisionning
+
+# Historique ligne de commande (chronologie décroissante) :
+:x
+:q
+:x!
+:% s#/home/ironweb/iron#/home/adrienschaegis/devel/provisionning#
+:w
+:set paste
+:q!
+:% s#uk-3a.dev#aaa.dev#g
+:q:q
+:% s#@an#@birth_certificate_fr#g
+:% s#clic_verif#serv_paie#g
+:% s#/etc/apache2/sites-enabled/adrien.clic_verif_com.dev.ironweb.conf
+:% s/([^;]*)
+:X
+:% s#abdoul#adrien#g
+:.,$ s#extrait#net#g
+:% s#sav_utile_com#clic_verif_com#g
+:wq
+:% s/CV/Lettre/g
+:% s#mikael.albusquier#kevin.leroux#g
+
+# Historique chaîne de recherche (chronologie décroissante) :
+?/kbis
+?/cng
+?/fruk
+?/HTTP_PORT
+?/<<<
+?/mongo
+?/mongodb
+?/api-cli
+?/<<<<
+?/kbis-pro
+?/2049
+? /home/ironweb/iron
+?/192.168.0.178
+?/cng-search-prod
+?/search
+?/gitlab
+?/cloud
+? uk-3a.dev
+?/192.168.0.10 
+? @an
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Registres :
+"0	LINE	0
+	199.199.199.16  sav3.aaa.dev
+""1	LINE	0
+	
+"2	LINE	0
+	127.0.0.1     test_annotation.test
+"3	LINE	0
+	>>>>>>> acba5554f69129e83ce6402a3880c5ff9c942db2
+"4	LINE	0
+	=======
+"5	LINE	0
+	<<<<<<< HEAD
+"6	LINE	0
+	
+"7	LINE	0
+	Homepage: http://www.mongodb.org/display/DOCS/PHP+Language+Center
+"8	LINE	0
+	 in PHP.
+"9	LINE	0
+	 This package provides an interface for communicating with the MongoDB database
+"-	CHAR	0
+	r
+
+# Marques dans le fichier :
+'0  16  0  /etc/hosts
+'1  145  5  ~/.ssh/config
+'2  1  0  ~/devel/IR/ir-main/.gitmodules
+'3  1  0  ~/devel/IR/ir-main/.git/config
+'4  2  6  ~/devel/IR/convert-to-object/.gitignore
+'5  1  5  ~/devel/IR/convert-to-object/.gitignore
+'6  1  0  ~/github/myconf/git/.gitconfig
+'7  2  0  ~/.gitconfig
+'8  95  5  ~/.ssh/config
+'9  19  0  /etc/hosts
+
+# Liste de sauts (le plus récent en premier) :
+-'  16  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  145  5  ~/.ssh/config
+-'  1  0  ~/.ssh/config
+-'  1  0  ~/devel/IR/ir-main/.gitmodules
+-'  1  0  ~/devel/IR/ir-main/.git/config
+-'  2  6  ~/devel/IR/convert-to-object/.gitignore
+-'  1  0  ~/devel/IR/convert-to-object/.gitignore
+-'  1  0  ~/github/myconf/git/.gitconfig
+-'  2  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  95  5  ~/.ssh/config
+-'  19  0  /etc/hosts
+-'  1  0  ~/devel/provisionning/fruk_sav/.git/MERGE_MSG
+-'  1  9  ~/devel/provisionning/fruk_sav/.git/TAG_EDITMSG
+-'  1  0  ~/devel/provisionning/service_3a/.git/MERGE_MSG
+-'  1  13  ~/devel/provisionning/service_3a/.git/TAG_EDITMSG
+-'  38  7  ~/.ssh/config
+-'  159  5  ~/.ssh/config
+-'  34  0  ~/.ssh/config
+-'  1  0  ~/devel/provisionning/new_fruk/.git/MERGE_MSG
+-'  106  43  /etc/init.d/jenkins
+-'  52  2  /etc/init.d/jenkins
+-'  1  0  /etc/init.d/jenkins
+-'  1  0  ~/devel/provisionning/form_uk/.git/MERGE_MSG
+-'  1  23  ~/devel/provisionning/form_uk/.git/TAG_EDITMSG
+-'  1  0  ~/devel/provisionning/form_uk/.git/COMMIT_EDITMSG
+-'  228  8  ~/devel/provisionning/form_uk/app/config/config.yml
+-'  2  0  ~/devel/provisionning/form_uk/app/config/config.yml
+-'  1  0  ~/devel/provisionning/form_uk/app/config/config.yml
+-'  38520  0  /var/lib/dpkg/status
+-'  1  0  /var/lib/dpkg/status
+-'  45  3  ~/.ssh/config
+-'  47  0  ~/.ssh/config
+-'  68  32  /etc/hosts
+-'  1  0  ~/devel/LiipThemeProvider/.git/MERGE_MSG
+-'  1  0  ~/devel/provisionning/service_3a/.gitignore
+-'  24  0  /etc/hosts
+-'  34  9  /etc/init.d/rc.local
+-'  1  0  /etc/init.d/rc.local
+-'  28  1  /etc/init.d/rc.local
+-'  37  17  ~/.tmuxinator/fruk.yml
+-'  1  0  ~/.tmuxinator/fruk.yml
+-'  33  13  ~/.tmuxinator/fruk.yml
+-'  31  11  ~/.tmuxinator/fruk.yml
+-'  1  0  ~/.bash_profile
+-'  60  0  /etc/hosts
+-'  6  37  ~/devel/provisionning/service_3a/app/config/deploy/preprod.rb
+-'  1  0  ~/devel/provisionning/service_3a/app/config/deploy/preprod.rb
+-'  1  0  ~/devel/provisionning/service_3a/app/config/deploy.rb
+-'  87  47  ~/devel/provisionning/form_uk/composer.json
+-'  55  8  ~/devel/provisionning/form_uk/composer.json
+-'  1  0  ~/devel/provisionning/form_uk/composer.json
+-'  25  0  ~/.ssh/config
+-'  151  0  ~/devel/provisionning/form_uk/app/config/deploy.rb
+-'  1  0  ~/devel/provisionning/form_uk/app/config/deploy.rb
+-'  161  0  ~/devel/provisionning/service_3a/app/config/deploy.rb
+-'  1  0  ~/devel/provisionning/fruk_sav/.git/COMMIT_EDITMSG
+-'  21  15  ~/.bash_aliases
+-'  1  0  ~/.bash_aliases
+-'  3897  8  ~/devel/provisionning/form_uk/composer.lock
+-'  3865  16  ~/devel/provisionning/form_uk/composer.lock
+-'  3293  16  ~/devel/provisionning/form_uk/composer.lock
+-'  3218  16  ~/devel/provisionning/form_uk/composer.lock
+-'  1  0  ~/devel/provisionning/form_uk/composer.lock
+-'  1  0  ~/.caprc
+-'  142  18  ~/.ssh/config
+-'  61  0  ~/.ssh/config
+-'  3289  16  ~/devel/provisionning/form_uk/composer.lock
+-'  4  0  /etc/hosts
+-'  1  0  ~/devel/provisionning/service_3a/.gitattributes
+-'  1  0  ~/devel/provisionning/sps-api-client/.git/MERGE_MSG
+-'  1  0  ~/devel/provisionning/service_3a/.git/COMMIT_EDITMSG
+-'  302  12  /etc/services
+-'  1  0  /etc/services
+-'  16  0  /etc/exports
+-'  17  0  /etc/exports
+-'  1  0  /etc/exports
+-'  18  0  /etc/exports
+-'  23  0  /etc/exports
+-'  24  0  /etc/exports
+-'  10  0  /etc/exports
+-'  1  0  /etc/fstab
+-'  1  0  /etc/fstab.d
+-'  25  0  /etc/exports
+-'  1  0  ~/devel/provisionning/form_uk/.gitattributes
+-'  1  0  ~/devel/provisionning/mail-bundle-3a/.git/MERGE_MSG
+-'  74  0  ~/.ssh/config
+-'  29  29  ~/.tmux.conf
+-'  1  0  ~/.tmux.conf
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa
+-'  1  0  ~/devel/3a/cngel2/.git/MERGE_MSG
+-'  1  26  ~/devel/3a/cngel2/.git/TAG_EDITMSG
+-'  31  61  ~/devel/3a/cngel2/.git/COMMIT_EDITMSG
+-'  1  0  ~/devel/3a/cngel2/.git/COMMIT_EDITMSG
+-'  1  0  ~/devel/provisionning/fruk_sav/vendor/ourserverdev/fruk_common/.git/MERGE_MSG
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> /etc/hosts
+	"	16	0
+	^	68	33
+	.	11	0
+	+	16	13
+	+	16	13
+	+	16	25
+	+	16	28
+	+	16	0
+	+	16	23
+	+	16	27
+	+	16	24
+	+	16	21
+	+	12	16
+	+	13	47
+	+	16	0
+	+	15	9
+	+	16	15
+	+	16	39
+	+	4	7
+	+	4	13
+	+	4	13
+	+	4	13
+	+	4	13
+	+	4	13
+	+	4	13
+	+	4	0
+	+	18	0
+	+	4	21
+	+	11	16
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	21
+	+	4	21
+	+	4	0
+	+	4	25
+	+	4	32
+	+	4	0
+	+	4	29
+	+	4	26
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	33
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	32
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	11	0
+	+	16	0
+	+	17	4
+	+	18	0
+	+	17	0
+	+	18	0
+	+	17	8
+	+	4	54
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	57
+	+	4	22
+	+	4	0
+	+	3	0
+	+	4	0
+	+	4	0
+	+	17	0
+	+	62	5
+	+	20	13
+	+	62	13
+	+	21	0
+	+	59	23
+	+	68	33
+	+	11	0
+
+> ~/.ssh/config
+	"	145	5
+	^	45	11
+	.	45	0
+	+	49	20
+	+	48	12
+	+	54	0
+	+	58	13
+	+	54	7
+	+	58	12
+	+	50	3
+	+	56	3
+	+	51	17
+	+	57	17
+	+	138	0
+	+	126	0
+	+	127	0
+	+	128	0
+	+	131	0
+	+	132	0
+	+	133	0
+	+	136	0
+	+	137	0
+	+	138	0
+	+	18	24
+	+	19	14
+	+	18	23
+	+	8	0
+	+	1	16
+	+	7	0
+	+	6	0
+	+	5	0
+	+	4	0
+	+	3	0
+	+	2	0
+	+	1	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	28	38
+	+	33	30
+	+	32	0
+	+	33	1
+	+	31	1
+	+	30	1
+	+	29	19
+	+	32	6
+	+	26	16
+	+	23	16
+	+	70	0
+	+	69	0
+	+	70	0
+	+	68	1
+	+	67	1
+	+	64	1
+	+	63	1
+	+	62	1
+	+	61	1
+	+	76	0
+	+	72	5
+	+	34	12
+	+	35	31
+	+	76	12
+	+	35	38
+	+	37	22
+	+	88	12
+	+	87	11
+	+	84	14
+	+	37	37
+	+	20	0
+	+	38	0
+	+	36	19
+	+	37	34
+	+	78	11
+	+	82	12
+	+	78	17
+	+	163	0
+	+	162	0
+	+	159	0
+	+	158	0
+	+	160	0
+	+	156	0
+	+	155	0
+	+	154	0
+	+	152	0
+	+	151	0
+	+	150	0
+	+	148	0
+	+	147	0
+	+	146	0
+	+	144	0
+	+	143	0
+	+	141	0
+	+	40	17
+	+	18	3
+	+	19	4
+	+	18	3
+	+	123	19
+	+	142	3
+	+	47	0
+	+	45	0
+
+> ~/devel/IR/ir-main/.gitmodules
+	"	1	0
+
+> ~/devel/IR/ir-main/.git/config
+	"	1	0
+
+> ~/devel/IR/convert-to-object/.gitignore
+	"	2	6
+	^	2	7
+	.	2	6
+	+	1	8
+	+	2	6
+
+> ~/github/myconf/git/.gitconfig
+	"	1	0
+
+> ~/.gitconfig
+	"	40	3
+	^	40	4
+	.	40	3
+	+	31	76
+	+	30	3
+	+	31	37
+	+	16	0
+	+	36	3
+	+	31	0
+	+	30	3
+	+	31	32
+	+	31	38
+	+	23	7
+	+	34	7
+	+	33	0
+	+	32	3
+	+	33	20
+	+	34	58
+	+	8	2
+	+	9	3
+	+	14	3
+	+	38	3
+	+	39	3
+	+	40	3
+
+> ~/devel/provisionning/fruk_sav/.git/MERGE_MSG
+	"	1	0
+	.	1	0
+	+	1	6
+	+	1	0
+
+> ~/devel/provisionning/fruk_sav/.git/TAG_EDITMSG
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
+
+> ~/devel/provisionning/service_3a/.git/MERGE_MSG
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/devel/provisionning/service_3a/.git/TAG_EDITMSG
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	11
+	+	2	0
+	+	1	13
+
+> ~/devel/provisionning/new_fruk/.git/MERGE_MSG
+	"	1	0
+
+> /etc/init.d/jenkins
+	"	106	43
+
+> ~/devel/provisionning/form_uk/.git/MERGE_MSG
+	"	1	0
+	^	1	0
+
+> ~/devel/provisionning/form_uk/.git/TAG_EDITMSG
+	"	1	23
+	^	1	24
+	.	1	23
+	+	1	9
+	+	2	0
+	+	1	23
+
+> ~/devel/provisionning/form_uk/.git/COMMIT_EDITMSG
+	"	1	0
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/devel/provisionning/form_uk/app/config/config.yml
+	"	228	8
+	^	226	12
+	.	229	0
+	+	215	0
+	+	225	0
+	+	224	0
+	+	229	0
+
+> /var/lib/dpkg/status
+	"	38520	0
+	.	38520	0
+	+	38520	0
+
+> ~/devel/LiipThemeProvider/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/provisionning/service_3a/.gitignore
+	"	1	0
+	.	27	0
+	+	27	11
+	+	13	6
+	+	14	5
+	+	27	0
+
+> /etc/init.d/rc.local
+	"	34	9
+	^	34	10
+	.	34	9
+	+	29	0
+	+	28	25
+	+	34	9
+
+> ~/.tmuxinator/fruk.yml
+	"	37	17
+	^	37	18
+	.	37	17
+	+	31	8
+	+	32	0
+	+	31	32
+	+	32	55
+	+	33	8
+	+	33	35
+	+	37	33
+	+	4	27
+	+	31	14
+	+	32	15
+	+	37	15
+	+	33	13
+	+	16	38
+	+	34	0
+	+	35	10
+	+	36	0
+	+	37	17
+
+> ~/.bash_profile
+	"	1	0
+	.	86	0
+	+	70	13
+	+	71	0
+	+	16	0
+	+	45	140
+	+	9	0
+	+	7	2
+	+	9	40
+	+	10	35
+	+	45	115
+	+	45	143
+	+	45	115
+	+	45	143
+	+	45	140
+	+	45	113
+	+	2	2
+	+	45	113
+	+	44	0
+	+	40	17
+	+	40	114
+	+	24	0
+	+	25	4
+	+	26	3
+	+	24	26
+	+	40	25
+	+	45	0
+	+	46	0
+	+	40	42
+	+	34	91
+	+	71	0
+	+	48	0
+	+	14	0
+	+	14	29
+	+	15	1
+	+	14	23
+	+	13	30
+	+	20	28
+	+	86	0
+
+> ~/devel/provisionning/service_3a/app/config/deploy/preprod.rb
+	"	6	37
+	^	6	38
+	.	6	37
+	+	6	37
+
+> ~/devel/provisionning/service_3a/app/config/deploy.rb
+	"	1	0
+	^	161	1
+	.	161	0
+	+	161	0
+
+> ~/devel/provisionning/form_uk/composer.json
+	"	87	47
+	^	87	48
+	.	87	47
+	+	87	47
+
+> ~/devel/provisionning/form_uk/app/config/deploy.rb
+	"	151	0
+	^	151	1
+	.	151	0
+	+	151	0
+
+> ~/devel/provisionning/fruk_sav/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/.bash_aliases
+	"	21	15
+	^	21	16
+	.	21	35
+	+	9	39
+	+	10	43
+	+	21	35
+
+> ~/devel/provisionning/form_uk/composer.lock
+	"	3897	8
+	.	3897	0
+	+	3288	0
+	+	3289	0
+	+	3217	0
+	+	3218	0
+	+	3292	0
+	+	3293	0
+	+	3855	0
+	+	3865	0
+	+	3893	0
+	+	3897	0
+
+> ~/.caprc
+	"	1	0
+	^	2	5
+	.	2	4
+	+	1	25
+	+	2	28
+	+	1	4
+	+	2	4
+
+> ~/devel/provisionning/service_3a/.gitattributes
+	"	1	0
+
+> ~/devel/provisionning/sps-api-client/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/provisionning/service_3a/.git/COMMIT_EDITMSG
+	"	1	0
+	^	1	3
+	.	1	2
+	+	1	2
+
+> /etc/services
+	"	302	12
+	^	302	13
+	.	302	12
+	+	302	12
+
+> /etc/exports
+	"	16	0
+	^	17	56
+	.	12	0
+	+	25	0
+	+	25	0
+	+	10	1
+	+	24	55
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	19	0
+	+	18	0
+	+	18	0
+	+	18	0
+	+	18	0
+	+	18	0
+	+	18	0
+	+	18	29
+	+	18	0
+	+	18	0
+	+	18	0
+	+	18	77
+	+	18	74
+	+	18	80
+	+	18	75
+	+	18	86
+	+	18	0
+	+	17	55
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	12	0
+
+> /etc/fstab
+	"	1	0
+
+> ~/devel/provisionning/form_uk/.gitattributes
+	"	1	0
+
+> ~/devel/provisionning/mail-bundle-3a/.git/MERGE_MSG
+	"	1	0
+
+> ~/.tmux.conf
+	"	29	29
+	^	29	30
+	.	29	0
+	+	29	0
+
+> /etc/ssh/sshd_config
+	"	1	0
+
+> ~/.ssh/id_rsa.pub
+	"	1	0
+
+> ~/.ssh/id_rsa
+	"	1	0
+
+> ~/devel/3a/cngel2/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/3a/cngel2/.git/TAG_EDITMSG
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
+
+> ~/devel/3a/cngel2/.git/COMMIT_EDITMSG
+	"	31	61
+
+> ~/devel/provisionning/fruk_sav/vendor/ourserverdev/fruk_common/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/chateauletap/.gitignore
+	"	13	5
+	^	13	6
+	.	13	5
+	+	13	5
+
+> ~/devel/3a/cngel2/.git/config
+	"	21	16
+	^	21	17
+	.	21	16
+	+	83	14
+	+	19	18
+	+	20	18
+	+	21	16
+
+> ~/devel/provisionning/fruk_sav/.gitignore
+	"	28	0
+	^	19	11
+	.	22	0
+	+	10	0
+	+	9	0
+	+	3	0
+	+	13	0
+	+	15	0
+	+	17	0
+	+	19	11
+	+	22	0
+
+> ~/devel/3a/cng-search-config/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/3a/cng-search-config/vendor/ourserverdev/check-ip-bundle/CheckIp/Bundle/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/provisionning/form_uk/.gitignore
+	"	15	0
+	.	12	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	10	0
+	+	10	0
+	+	10	0
+	+	10	0
+	+	10	0
+	+	10	0
+	+	10	0
+	+	10	0
+	+	10	0
+	+	10	0
+	+	11	16
+	+	10	0
+	+	10	0
+	+	10	0
+	+	10	0
+	+	10	0
+	+	10	0
+	+	10	24
+	+	10	16
+	+	10	18
+	+	10	26
+	+	10	13
+	+	10	26
+	+	10	24
+	+	10	0
+	+	11	0
+	+	11	2
+	+	12	0
+	+	12	0
+	+	11	0
+	+	12	0
+
+> ~/devel/provisionning/form_uk/vendor/ourserverdev/api-client-service3a/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/provisionning/form_uk/vendor/ourserverdev/api-client-service3a/.git/TAG_EDITMSG
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/devel/provisionning/new_fruk/README.md
+	"	33	61
+	^	33	62
+	.	33	61
+	+	33	61
+
+> /etc/apache2/sites-available/adrien.test.dev.ironweb.conf
+	"	1	0
+
+> ~/devel/3a/kbis/.gitignore
+	"	15	4
+	^	15	5
+	.	15	4
+	+	15	4
+
+> ~/devel/3a/cngel2/vendor/ourserverdev/cng-client-bundle/Common/ClientBundle/composer.json
+	"	1	0
+
+> ~/.gitignore
+	"	1	0
+	.	6	0
+	+	6	0
+
+> ~/devel/provisionning/form_uk/vendor/neirda24/html2canvas-proxy-bundle/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/provisionning/form_uk/vendor/neirda24/html2canvas-proxy-bundle/.git/TAG_EDITMSG
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/devel/provisionning/form_uk/vendor/neirda24/html2canvas-proxy-bundle/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/devel/provisionning/html2canvas-proxy-bundle/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/.ssh/cof
+	"	1	0
+
+> ~/devel/provisionning/api-client-service3a/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/provisionning/api-client-service3a/.git/TAG_EDITMSG
+	"	1	24
+	^	1	25
+	.	1	24
+	+	1	24
+
+> ~/.mysql/workbench/connections.xml
+	"	15	43
+
+> ~/devel/provisionning/new_fruk/i
+	"	1	0
+
+> ~/github/myconf/.git/COMMIT_EDITMSG
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
+
+> ~/devel/3a/cng-search-config/.git/TAG_EDITMSG
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/devel/ffr/casier/juridique_et_emploi/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/ffr/casier/juridique_et_emploi/.git/TAG_EDITMSG
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/.tmuxinator/basic.yml
+	"	11	0
+	^	24	38
+	.	25	0
+	+	24	7
+	+	24	0
+	+	19	31
+	+	22	28
+	+	23	117
+	+	24	114
+	+	24	18
+	+	23	110
+	+	24	107
+	+	22	23
+	+	24	20
+	+	22	30
+	+	25	14
+	+	23	64
+	+	24	37
+	+	25	0
+
+> ~/devel/3a/service_3a/.git/MERGE_MSG
+	"	1	0
+	^	1	0
+	.	1	13
+	+	1	13
+
+> ~/devel/3a/service_3a/.git/TAG_EDITMSG
+	"	1	16
+	^	1	17
+	.	1	16
+	+	1	13
+	+	2	0
+	+	1	20
+	+	2	0
+	+	1	10
+	+	2	0
+	+	1	16
+
+> ~/devel/ffr/casier/juridique_et_emploi_com/config/deploy/dev.rb
+	"	5	0
+
+> ~/devel/provisionning/form_fruk_sav/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/ffr/casier/juridique_et_emploi_com/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/3a/service_3a/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/devel/3a/service_3a/.gitignore
+	"	33	10
+	^	33	11
+	.	33	10
+	+	1	0
+	+	32	0
+	+	33	10
+
+> ~/devel/3a/service_3a/src/Iron/Bundle/FrontBundle/Resources/themes/3a_fr/Common/section_main.html.twig
+	"	68	0
+
+> ~/devel/3a/service_3a/src/Iron/Bundle/FrontBundle/Resources/themes/3a_fr/Common/test.html.twig
+	"	67	0
+
+> ~/devel/provisionning/form_uk/vendor/ourserverdev/api-client-service3a/.git/COMMIT_EDITMSG
+	"	1	0
+	^	1	13
+	.	1	12
+	+	1	12
+
+> ~/devel/provisionning/new_fruk/.git/COMMIT_EDITMSG
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/devel/ffr/casier/juridique_et_emploi_com/.git/TAG_EDITMSG
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
+
+> ~/devel/provisionning/form_uk/src/Product/FrontBundle/Controller/DrivingProcessController.php
+	"	10	0
+	.	10	0
+	+	9	0
+	+	10	0
+
+> ~/devel/ffr/casier/juridique_et_emploi_com/controllers/pages/index.php
+	"	13	0
+
+> ~/devel/ffr/casier/juridique_et_emploi_com/controllers/pages/contacts.php
+	"	6	0
+
+> ~/devel/ffr/sav/serv_paie_com/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/ffr/sav/serv_paie_com/.git/TAG_EDITMSG
+	"	1	12
+	^	1	13
+	.	1	12
+	+	2	0
+	+	1	12
+
+> ~/devel/ffr/sav/clair_surf_com/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/ffr/sav/clair_surf_com/.git/TAG_EDITMSG
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/devel/3a/api-client-service3a/.git/MERGE_MSG
+	"	1	0
+
+> ~/devel/3a/api-client-service3a/.git/TAG_EDITMSG
+	"	1	33
+	^	1	34
+	.	1	33
+	+	1	33
+
+> ~/devel/provisionning/form_uk/src/Common/AppBundle/DataFixtures/ORM/fixtures/vad.yml
+	"	47	0
+	.	47	0
+	+	72	0
+	+	72	0
+	+	60	0
+	+	72	0
+	+	70	0
+	+	47	0
+
+> ~/devel/test/parse/plop.html
+	"	1	79
+	^	1	80
+	.	1	79
+	+	1	79
+
+> ~/devel/to_remove/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/devel/chateauletap/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/devel/3a/cng-client-bundle/.git/MERGE_MSG
+	"	1	0
