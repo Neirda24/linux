@@ -35,7 +35,7 @@
     last = log -1 HEAD
 
     # To see the tag properly ordered
-    ts = !"git tag | sort -n -k1.2,1.4 -k1.6n"
+    ts = !"git for-each-ref --format='%(*committerdate:raw)%(committerdate:raw) %(refname:short)' refs/tags | sort -n | awk '{ print $3; }'"
 
     # To see the last tag
     ltag = !"git ts | tail -n 1"
