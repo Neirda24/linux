@@ -6,12 +6,12 @@
     ui = always
     autocrlf = input
     whitespace = trailing-space,space-before-tab,indent-with-non-tab
-	excludesfile = ~/.gitignore
+    excludesfile = ~/.gitignore
 [merge]
     tool = vimdiff
 [color]
     ui = true
-	status = always
+    status = always
 [alias]
     # Cancel the last commit.
     undo = reset --soft HEAD^
